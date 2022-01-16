@@ -5,6 +5,9 @@
 - Data Analytics
 
 ### Projects Done:
+- MLBD Toxicity identification:
+- Data analytics Clustering analysis
+- Data analytics 
 
 
 # Spring 2022
